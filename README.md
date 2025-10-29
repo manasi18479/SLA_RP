@@ -1,6 +1,6 @@
 # SLA_RP
 repository for reference links of AR in healthcare
-# SEA Research Paper References – AR in Healthcare
+# SLA Research Paper References – AR in Healthcare
 
 ## Team Details
 **Team Code:** TY4-14A  
